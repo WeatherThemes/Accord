@@ -7,9 +7,6 @@
         </div> <!-- .container -->
     </div> <!-- .main-body -->
 
-    <!-- JavaScript -->
-    <script src="<?php bloginfo('template_directory'); ?>/js/jquery-1.11.3.min.js"></script>
-    <script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.min.js"></script>
-
+   
 </body>
 </html>
