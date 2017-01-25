@@ -1,20 +1,20 @@
-# [Weather Themes](http://weatherthemes.com/) - [Accord]
+# [Weather Themes](http://weatherthemes.com/) - [Elevate]
 
-(http://weatherthemes.com/themes/accord/)
+(http://weatherthemes.com/themes/elevate/)
 
-[Accord WordPress Theme](http://weatherthemes.com/themes/accord/) is 
+[Elevate WordPress Theme](http://weatherthemes.com/themes/elevate/) is 
 
 a web app landing page WordPress theme for [Wordpress]
 
 (http://tooplate.com/) created by [WeatherThemes]
 
-(http://weatherhemes.com/).
+(http://weatherthemes.com/).
 
 ## Getting Started
 
 * Clone the repo: `git clone 
 
-https://github.com/weatherthemes/Accord.git`
+https://github.com/weatherthemes/Elevate.git`
 * Fork the repo
 
 ## Creator
